@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://qiuzhihui1990.github.io/sitemap.xml

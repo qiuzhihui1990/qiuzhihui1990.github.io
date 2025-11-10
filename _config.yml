@@ -6,7 +6,9 @@ bio: Do interesting things and be interesting person.
 future: true
 
 # twitter summary info
-description: A blog about technology and live
+description: A blog about technology and life - AI, LangGraph, Python, DevOps and Software Engineering
+title: Jesse Chiou's Tech Blog
+lang: en_US
 
 # if it's an external image, update below for true
 # better with square images
@@ -100,6 +102,7 @@ animation: true
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
