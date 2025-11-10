@@ -2,6 +2,9 @@
 name: Jesse Chiou
 bio: Do interesting things and be interesting person.
 
+# show posts with future dates
+future: true
+
 # twitter summary info
 description: A blog about technology and live
 
