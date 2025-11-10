@@ -54,12 +54,12 @@ medium: medium
 email: qiuzhihui2013@gmail.com
 
 authors:
-    Jesse Qiu:
-        name: JesseQiu
+    Jesse Chiou:
+        name: JesseChiou
         bio: Do interesting things and be interesting person.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: JesseQiu
+        twitter: JesseChiou
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
