@@ -34,9 +34,22 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: [blog, project] # only show disqus for posts that have these categories
+
+# Giscus comments (GitHub Discussions based)
+giscus:
+  repo: qiuzhihui1990/qiuzhihui1990.github.io
+  repo-id: MDEwOlJlcG9zaXRvcnkxNzM1ODQwMjU=
+  category: Announcements
+  category-id: DIC_kwDOCliumc4Cxx1a
+  mapping: pathname
+  reactions-enabled: 1
+  emit-metadata: 0
+  theme: preferred_color_scheme
+  lang: zh-CN
+  categories: [blog, project] # only show giscus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
